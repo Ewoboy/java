@@ -1,0 +1,1207 @@
+/2 сем/python/alghoritms/.gitignore
+/2 сем/python/alghoritms/1.py
+/2 сем/python/alghoritms/euclid.py
+/2 сем/python/alghoritms/factorial.py
+/2 сем/python/alghoritms/fibonacci.py
+/2 сем/python/alghoritms/git.py
+/2 сем/python/alghoritms/otrezki.py
+/2 сем/python/alghoritms/quicksort.py
+/2 сем/python/alghoritms/tree.py
+/2 сем/python/alghoritms/widthSearch.py
+/2 сем/python/inf/20.py
+/2 сем/python/inf/asd.py
+/2 сем/python/inf/binary search.py
+/2 сем/python/ооп/29.04/company_sales_data.csv
+/2 сем/python/ооп/29.04/plt КВБО-34-24.ipynb
+/2 сем/python/ооп/29.04/RTL.csv
+/2 сем/python/ооп/.gitignore
+/2 сем/python/ооп/1пр.py
+/2 сем/python/ооп/2пр.py
+/2 сем/python/ооп/3пр.py
+/2 сем/python/ооп/4пр.py
+/2 сем/python/ооп/6пр.py
+/2 сем/python/ооп/8пр.py
+/2 сем/python/ооп/10пр.py
+/2 сем/python/ооп/13пр.py
+/2 сем/python/ооп/14.1пр.py
+/2 сем/python/ооп/14.2пр.py
+/2 сем/python/ооп/15пр.ipynb
+/2 сем/python/ооп/chashka.jpg
+/2 сем/python/ооп/control (1).py
+/2 сем/python/ооп/en.openfoodfacts.org.products.tsv
+/2 сем/python/ооп/l.py
+/2 сем/python/ооп/leto.jpg
+/2 сем/python/ооп/osel.jpg
+/2 сем/python/ооп/pandas КВБО-34-24.ipynb
+/2 сем/python/ооп/selfmath.py
+/2 сем/python/ооп/test.py
+/2 сем/python/ооп/test2.py
+/2 сем/python/ооп/test3.py
+/2 сем/python/.gitignore
+/2 сем/python/stp.py
+/2 сем/python/video_clips.txt
+/2 сем/python/задачи на подумать
+/2 сем/АИР ПР/1пр/Ларионов Никита Вадимович КВБО-34-24 ПР1.docx
+/2 сем/АИР ПР/1пр/Ларионов Никита КВБО-34-24 ПР1.sci
+/2 сем/АИР ПР/2пр/2пр.sci
+/2 сем/АИР ПР/2пр/Ларионов Никита Вадимович КВБО-34-24 ПР2.docx
+/2 сем/АИР ПР/3пр/3pr.sci
+/2 сем/АИР ПР/3пр/Ларионов Никита Вадимович КВБО-34-24 ПР3.docx
+/2 сем/АИР ПР/4пр/4pr.sci
+/2 сем/АИР ПР/4пр/Ларионов Никита Вадимович КВБО-34-24 ПР4.docx
+/2 сем/АИР ПР/курсовая.sci
+/2 сем/АИР ПР/Ларионов Никита КВБО-34-24 КР.pdf
+/2 сем/АИР ПР/Титульный лист практическое задание (3).docx
+/2 сем/инжграф/гайка/ассоциативный.cdw
+/2 сем/инжграф/гайка/гайка.cdw
+/2 сем/инжграф/гайка/гайка.cdw.bak
+/2 сем/инжграф/гайка/гайка.pdf
+/2 сем/инжграф/гайка/гайка.png
+/2 сем/инжграф/гайка/Глухая гайка _ МРАГ.758424.000.m3d
+/2 сем/инжграф/деталирование/main.cdw
+/2 сем/инжграф/деталирование/main.cdw.bak
+/2 сем/инжграф/деталирование/V05.png
+/2 сем/инжграф/деталирование/Втулка.cdw
+/2 сем/инжграф/деталирование/Втулка.cdw.bak
+/2 сем/инжграф/деталирование/Втулка.pdf
+/2 сем/инжграф/деталирование/втулка (7).m3d
+/2 сем/инжграф/деталирование/втулка_7_нова_нормальная.m3d
+/2 сем/инжграф/деталирование/втулка_7_нова_нормальная.m3d.bak
+/2 сем/инжграф/деталирование/клапан.cdw
+/2 сем/инжграф/деталирование/клапан.pdf
+/2 сем/инжграф/призма/призма.cdw
+/2 сем/инжграф/призма/призма.cdw.bak
+/2 сем/инжграф/призма/призма.pdf
+/2 сем/инжграф/прокладка/Вариант 1.png
+/2 сем/инжграф/прокладка/Вариант 2.png
+/2 сем/инжграф/прокладка/Вариант 3.png
+/2 сем/инжграф/прокладка/Вариант 4.png
+/2 сем/инжграф/прокладка/Вариант 5.png
+/2 сем/инжграф/прокладка/Вариант 6.png
+/2 сем/инжграф/прокладка/Вариант 7.png
+/2 сем/инжграф/прокладка/Вариант 8.png
+/2 сем/инжграф/прокладка/Вариант 9.png
+/2 сем/инжграф/прокладка/Вариант 10.png
+/2 сем/инжграф/прокладка/Вариант 11.png
+/2 сем/инжграф/прокладка/Вариант 12.png
+/2 сем/инжграф/прокладка/Вариант 13.png
+/2 сем/инжграф/прокладка/Вариант 14.png
+/2 сем/инжграф/прокладка/Вариант 15.png
+/2 сем/инжграф/прокладка/Вариант 16.png
+/2 сем/инжграф/прокладка/Вариант 17.png
+/2 сем/инжграф/прокладка/Вариант 18.png
+/2 сем/инжграф/прокладка/Вариант 19.png
+/2 сем/инжграф/прокладка/Вариант 20.png
+/2 сем/инжграф/прокладка/Вариант 21.png
+/2 сем/инжграф/прокладка/Вариант 22.png
+/2 сем/инжграф/прокладка/Вариант 23.png
+/2 сем/инжграф/прокладка/Вариант 24.png
+/2 сем/инжграф/прокладка/Вариант 25.png
+/2 сем/инжграф/прокладка/Вариант 26.png
+/2 сем/инжграф/прокладка/Вариант 27.png
+/2 сем/инжграф/прокладка/Вариант 28.png
+/2 сем/инжграф/прокладка/Вариант 29.png
+/2 сем/инжграф/прокладка/Вариант 30.png
+/2 сем/инжграф/прокладка/Задание 1 - Алгоритм выполнения 2023.pdf
+/2 сем/инжграф/прокладка/прокладка.cdw
+/2 сем/инжграф/прокладка/прокладка.cdw.bak
+/2 сем/инжграф/прокладка/прокладка.pdf
+/2 сем/инжграф/ПЧ/ПЧ(550).cdw
+/2 сем/инжграф/ПЧ/ПЧ(550).cdw.bak
+/2 сем/инжграф/ПЧ/ПЧ(550).pdf
+/2 сем/инжграф/ПЧ/ПЧ Эпюр1.cdw
+/2 сем/инжграф/ПЧ/ПЧ Эпюр1.pdf
+/2 сем/инжграф/ПЧ/ПЧ Эпюр 2.cdw
+/2 сем/инжграф/ПЧ/ПЧ Эпюр 2.pdf
+/2 сем/инжграф/сборная деталь/Сборная деталь.cdw
+/2 сем/инжграф/сборная деталь/Сборная деталь.pdf
+/2 сем/инжграф/main.cdw.bak
+/2 сем/инжграф/photo_2025-06-10_13-30-50.jpg
+/2 сем/инжграф/photo_2025-06-10_13-30-50 (2).jpg
+/2 сем/инжграф/Soderzhanie_2024v21.kdw
+/2 сем/инжграф/Soderzhanie_2024v21.pdf
+/2 сем/инжграф/Tutil_Albom_BRS_Zachet.docx
+/2 сем/инжграф/втулка (7).m3d.bak
+/2 сем/инжграф/гайка.cdw.bak
+/2 сем/инжграф/ПЧ(550).cdw.bak
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 1.bmp
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 1.jpg
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2(2).bmp
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2(2).jpg
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2(3).bmp
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2(3).png
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2.bmp
+/2 сем/ИНФ/1ПР/1pr/domiki/домик 2.png
+/2 сем/ИНФ/1ПР/1pr/Ларионов Никита Вадимович КВБО-34-24 ПР1.docx
+/2 сем/ИНФ/1ПР/jkwgerg.xlsx
+/2 сем/ИНФ/1ПР/Ларионов Никита Вадимович КВБО-34-24 ПР2.docx
+/2 сем/ИНФ/1ПР/Ларионов Никита Вадимович КВБО-34-24 ПР3.docx
+/2 сем/ИНФ/1ПР/Ларионов Никита Вадимович КВБО-34-24 ПР4.docx
+/2 сем/ИНФ/1ПР/Ларионов Никита Вадимович КВБО-34-24 ПР5.docx
+/2 сем/ИНФ/1ПР/Ларионов Никита Вадимович КВБО-34-24 ПР6.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР7.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР8.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР9.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР10.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР11.docx
+/2 сем/ИНФ/2ПР/Ларионов Никита Вадимович КВБО-34-24 ПР12.docx
+/2 сем/ИНФ/3ПР/18ПР/18ПР.xlsx
+/2 сем/ИНФ/3ПР/18ПР/Ларионов Никита Вадимович КВБО-34-24 ПР18.docx
+/2 сем/ИНФ/3ПР/Ларионов Никита Вадимович КВБО-34-24 ПР13.docx
+/2 сем/ИНФ/3ПР/Ларионов Никита Вадимович КВБО-34-24 ПР14.docx
+/2 сем/ИНФ/3ПР/Ларионов Никита Вадимович КВБО-34-24 ПР15.docx
+/2 сем/ИНФ/3ПР/Ларионов Никита Вадимович КВБО-34-24 ПР16.docx
+/2 сем/ИНФ/3ПР/Ларионов Никита Вадимович КВБО-34-24 ПР17.docx
+/2 сем/ИНФ/4ПР/ПР21/21pr.xlsx
+/2 сем/ИНФ/4ПР/ПР21/Ларионов Никита Вадимович КВБО-34-24 ПР21.docx
+/2 сем/ИНФ/4ПР/Ларионов Никита Вадимович КВБО-34-24 ПР19.docx
+/2 сем/ИНФ/4ПР/Ларионов Никита Вадимович КВБО-34-24 ПР20.docx
+/2 сем/ИНФ/4ПР/Ларионов Никита Вадимович КВБО-34-24 ПР22.docx
+/2 сем/ИНФ/4ПР/Ларионов Никита Вадимович КВБО-34-24 ПР23.docx
+/2 сем/ИНФ/4ПР/Ларионов Никита Вадимович КВБО-34-24 ПР24.docx
+/2 сем/ИНФ/5ПР/Ларинов Никита Вадимович КВБО-34-24 ПР30.docx
+/2 сем/ИНФ/5ПР/Ларинов Никита Вадимович КВБО-34-24 ПР31.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР25.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР26.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР27.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР28.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР29.docx
+/2 сем/ИНФ/5ПР/Ларионов Никита Вадимович КВБО-34-24 ПР32.docx
+/2 сем/МАТ 2 СЕМ/Занятие 1.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 2.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 3.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 4.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 5.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 6.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 7.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 8.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 9.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 10.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 11.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 12.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 13.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 14.pdf
+/2 сем/МАТ 2 СЕМ/Занятие 15.pdf
+/2 сем/КУРСОВАЯ.docx
+/2 сем/Ларионов Никита КВБО-34-24 АИР.docx
+/2 сем/Ларионов_КВБО-34-24.docx
+/lc/bin/cygwin1.dll
+/lc/bin/quic_initial_www_google_com.bin
+/lc/bin/tls_clienthello_www_google_com.bin
+/lc/bin/WinDivert.dll
+/lc/bin/WinDivert64.sys
+/lc/bin/winws.exe
+/lc/lists/ipset-all.txt
+/lc/lists/ipset-all.txt.backup
+/lc/lists/list-general.txt
+/lc/general.bat
+/lc/general (ALT).bat
+/lc/general (ALT2).bat
+/lc/general (ALT3).bat
+/lc/general (ALT4).bat
+/lc/general (ALT5).bat
+/lc/general (ALT6).bat
+/lc/general (FAKE TLS).bat
+/lc/general (FAKE TLS ALT).bat
+/lc/general (FAKE TLS AUTO).bat
+/lc/general (FAKE TLS AUTO ALT).bat
+/lc/general (FAKE TLS AUTO ALT2).bat
+/lc/general (МГТС).bat
+/lc/general (МГТС2).bat
+/lc/service.bat
+/python/tony gaddis/chapter 6/chapter 6.ipynb
+/SIIBD/1pr.ipynb
+/SIIBD/2pr.ipynb
+/SIIBD/3pr.ipynb
+/SIIBD/iris.csv
+/SIIBD/test.ipynb
+/SIIBD/test.py
+/SIIBD/titanic.csv
+/tony gaddis/chapter 6/chapter 6.ipynb
+/tony gaddis/chapter 6/numbers1-10.txt
+/tony gaddis/chapter 6/random
+/tony gaddis/chapter 6/sales.txt
+/tony gaddis/chapter 6/test.py
+/tony gaddis/chapter 6/text.txt
+/tony gaddis/chapter 6/video_clips.txt
+/tony gaddis/chapter 2.ipynb
+/tony gaddis/chapter 3.ipynb
+/tony gaddis/chapter 4.ipynb
+/tony gaddis/chapter 5.ipynb
+/tony gaddis/circle.py
+/tony gaddis/rectangle.py
+/материалы питон/source-code/en/Appendix F/columns.py
+/материалы питон/source-code/en/Appendix F/dollar_display.py
+/материалы питон/source-code/en/Appendix F/formatting.py
+/материалы питон/source-code/en/Appendix F/no_formatting.py
+/материалы питон/source-code/en/Chapter 02/apostrophe.py
+/материалы питон/source-code/en/Chapter 02/center_align.py
+/материалы питон/source-code/en/Chapter 02/columns.py
+/материалы питон/source-code/en/Chapter 02/comment1.py
+/материалы питон/source-code/en/Chapter 02/comment2.py
+/материалы питон/source-code/en/Chapter 02/concatenation.py
+/материалы питон/source-code/en/Chapter 02/display_quote.py
+/материалы питон/source-code/en/Chapter 02/dollar_display.py
+/материалы питон/source-code/en/Chapter 02/double_quotes.py
+/материалы питон/source-code/en/Chapter 02/f_string_no_formatting.py
+/материалы питон/source-code/en/Chapter 02/f_string_rounding.py
+/материалы питон/source-code/en/Chapter 02/formatting.py
+/материалы питон/source-code/en/Chapter 02/future_value.py
+/материалы питон/source-code/en/Chapter 02/input.py
+/материалы питон/source-code/en/Chapter 02/orion.py
+/материалы питон/source-code/en/Chapter 02/output.py
+/материалы питон/source-code/en/Chapter 02/sale_price.py
+/материалы питон/source-code/en/Chapter 02/simple_math.py
+/материалы питон/source-code/en/Chapter 02/string_input.py
+/материалы питон/source-code/en/Chapter 02/string_variable.py
+/материалы питон/source-code/en/Chapter 02/test_score_average.py
+/материалы питон/source-code/en/Chapter 02/time_converter.py
+/материалы питон/source-code/en/Chapter 02/variable_demo.py
+/материалы питон/source-code/en/Chapter 02/variable_demo2.py
+/материалы питон/source-code/en/Chapter 02/variable_demo3.py
+/материалы питон/source-code/en/Chapter 02/variable_demo4.py
+/материалы питон/source-code/en/Chapter 03/auto_repair_payroll.py
+/материалы питон/source-code/en/Chapter 03/dart_game.py
+/материалы питон/source-code/en/Chapter 03/grader.py
+/материалы питон/source-code/en/Chapter 03/hit_the_target.py
+/материалы питон/source-code/en/Chapter 03/loan_qualifier.py
+/материалы питон/source-code/en/Chapter 03/loan_qualifier2.py
+/материалы питон/source-code/en/Chapter 03/loan_qualifier3.py
+/материалы питон/source-code/en/Chapter 03/password.py
+/материалы питон/source-code/en/Chapter 03/sort_names.py
+/материалы питон/source-code/en/Chapter 03/test_average.py
+/материалы питон/source-code/en/Chapter 04/combined_spiral_solution.py
+/материалы питон/source-code/en/Chapter 04/commission.py
+/материалы питон/source-code/en/Chapter 04/concentric_circles.py
+/материалы питон/source-code/en/Chapter 04/concentric_squares.py
+/материалы питон/source-code/en/Chapter 04/flower.py
+/материалы питон/source-code/en/Chapter 04/gross_pay.py
+/материалы питон/source-code/en/Chapter 04/hypno_squares_solution.py
+/материалы питон/source-code/en/Chapter 04/infinite.py
+/материалы питон/source-code/en/Chapter 04/property_tax.py
+/материалы питон/source-code/en/Chapter 04/rectangluar_pattern.py
+/материалы питон/source-code/en/Chapter 04/repeating_squares.py
+/материалы питон/source-code/en/Chapter 04/retail_no_validation.py
+/материалы питон/source-code/en/Chapter 04/retail_with_validation.py
+/материалы питон/source-code/en/Chapter 04/simple_loop1.py
+/материалы питон/source-code/en/Chapter 04/simple_loop2.py
+/материалы питон/source-code/en/Chapter 04/simple_loop3.py
+/материалы питон/source-code/en/Chapter 04/simple_loop4.py
+/материалы питон/source-code/en/Chapter 04/speed_converter.py
+/материалы питон/source-code/en/Chapter 04/spiral_circles.py
+/материалы питон/source-code/en/Chapter 04/spiral_lines.py
+/материалы питон/source-code/en/Chapter 04/spiral_squares.py
+/материалы питон/source-code/en/Chapter 04/squares.py
+/материалы питон/source-code/en/Chapter 04/stair_step_pattern.py
+/материалы питон/source-code/en/Chapter 04/sum_numbers.py
+/материалы питон/source-code/en/Chapter 04/temperature.py
+/материалы питон/source-code/en/Chapter 04/test_score_averages.py
+/материалы питон/source-code/en/Chapter 04/triangle_pattern.py
+/материалы питон/source-code/en/Chapter 04/user_squares1.py
+/материалы питон/source-code/en/Chapter 04/user_squares2.py
+/материалы питон/source-code/en/Chapter 05/acme_dryer.py
+/материалы питон/source-code/en/Chapter 05/bad_local.py
+/материалы питон/source-code/en/Chapter 05/birds.py
+/материалы питон/source-code/en/Chapter 05/change_me.py
+/материалы питон/source-code/en/Chapter 05/circle.py
+/материалы питон/source-code/en/Chapter 05/coin_toss.py
+/материалы питон/source-code/en/Chapter 05/commission_rate.py
+/материалы питон/source-code/en/Chapter 05/cups_to_ounces.py
+/материалы питон/source-code/en/Chapter 05/dice.py
+/материалы питон/source-code/en/Chapter 05/draw_circles.py
+/материалы питон/source-code/en/Chapter 05/draw_lines.py
+/материалы питон/source-code/en/Chapter 05/draw_squares.py
+/материалы питон/source-code/en/Chapter 05/function_demo.py
+/материалы питон/source-code/en/Chapter 05/geometry.py
+/материалы питон/source-code/en/Chapter 05/global1.py
+/материалы питон/source-code/en/Chapter 05/global2.py
+/материалы питон/source-code/en/Chapter 05/graphics_mod_demo.py
+/материалы питон/source-code/en/Chapter 05/hypotenuse.py
+/материалы питон/source-code/en/Chapter 05/keyword_args.py
+/материалы питон/source-code/en/Chapter 05/keyword_string_args.py
+/материалы питон/source-code/en/Chapter 05/multiple_args.py
+/материалы питон/source-code/en/Chapter 05/my_graphics.py
+/материалы питон/source-code/en/Chapter 05/none_demo.py
+/материалы питон/source-code/en/Chapter 05/pass_arg.py
+/материалы питон/source-code/en/Chapter 05/random_numbers.py
+/материалы питон/source-code/en/Chapter 05/random_numbers2.py
+/материалы питон/source-code/en/Chapter 05/random_numbers3.py
+/материалы питон/source-code/en/Chapter 05/rectangle.py
+/материалы питон/source-code/en/Chapter 05/rectangle2.py
+/материалы питон/source-code/en/Chapter 05/retirement.py
+/материалы питон/source-code/en/Chapter 05/sale_price.py
+/материалы питон/source-code/en/Chapter 05/square_root.py
+/материалы питон/source-code/en/Chapter 05/string_args.py
+/материалы питон/source-code/en/Chapter 05/total_ages.py
+/материалы питон/source-code/en/Chapter 05/two_functions.py
+/материалы питон/source-code/en/Chapter 06/add_coffee_record.py
+/материалы питон/source-code/en/Chapter 06/coffee.txt
+/материалы питон/source-code/en/Chapter 06/delete_coffee_record.py
+/материалы питон/source-code/en/Chapter 06/display_file.py
+/материалы питон/source-code/en/Chapter 06/display_file2.py
+/материалы питон/source-code/en/Chapter 06/division.py
+/материалы питон/source-code/en/Chapter 06/division2.py
+/материалы питон/source-code/en/Chapter 06/employees.txt
+/материалы питон/source-code/en/Chapter 06/file_read.py
+/материалы питон/source-code/en/Chapter 06/file_write.py
+/материалы питон/source-code/en/Chapter 06/friends.txt
+/материалы питон/source-code/en/Chapter 06/gross_pay1.py
+/материалы питон/source-code/en/Chapter 06/gross_pay2.py
+/материалы питон/source-code/en/Chapter 06/gross_pay3.py
+/материалы питон/source-code/en/Chapter 06/line_read.py
+/материалы питон/source-code/en/Chapter 06/modify_coffee_records.py
+/материалы питон/source-code/en/Chapter 06/names.txt
+/материалы питон/source-code/en/Chapter 06/numbers.txt
+/материалы питон/source-code/en/Chapter 06/philosophers.txt
+/материалы питон/source-code/en/Chapter 06/read_emp_records.py
+/материалы питон/source-code/en/Chapter 06/read_numbers.py
+/материалы питон/source-code/en/Chapter 06/read_running_times.py
+/материалы питон/source-code/en/Chapter 06/read_sales.py
+/материалы питон/source-code/en/Chapter 06/read_sales2.py
+/материалы питон/source-code/en/Chapter 06/sales.txt
+/материалы питон/source-code/en/Chapter 06/sales_data.txt
+/материалы питон/source-code/en/Chapter 06/sales_report1.py
+/материалы питон/source-code/en/Chapter 06/sales_report2.py
+/материалы питон/source-code/en/Chapter 06/sales_report3.py
+/материалы питон/source-code/en/Chapter 06/sales_report4.py
+/материалы питон/source-code/en/Chapter 06/save_emp_records.py
+/материалы питон/source-code/en/Chapter 06/save_running_times.py
+/материалы питон/source-code/en/Chapter 06/search_coffee_records.py
+/материалы питон/source-code/en/Chapter 06/show_coffee_records.py
+/материалы питон/source-code/en/Chapter 06/steps.txt
+/материалы питон/source-code/en/Chapter 06/strip_newline.py
+/материалы питон/source-code/en/Chapter 06/video_times.txt
+/материалы питон/source-code/en/Chapter 06/write_names.py
+/материалы питон/source-code/en/Chapter 06/write_numbers.py
+/материалы питон/source-code/en/Chapter 06/write_sales.py
+/материалы питон/source-code/en/Chapter 07/8_ball_responses.txt
+/материалы питон/source-code/en/Chapter 07/1994_Weekly_Gas_Averages.txt
+/материалы питон/source-code/en/Chapter 07/average_list.py
+/материалы питон/source-code/en/Chapter 07/bar_chart1.py
+/материалы питон/source-code/en/Chapter 07/bar_chart2.py
+/материалы питон/source-code/en/Chapter 07/bar_chart3.py
+/материалы питон/source-code/en/Chapter 07/barista_pay.py
+/материалы питон/source-code/en/Chapter 07/BoyNames.txt
+/материалы питон/source-code/en/Chapter 07/charge_accounts.txt
+/материалы питон/source-code/en/Chapter 07/cities.txt
+/материалы питон/source-code/en/Chapter 07/drop_lowest_score.py
+/материалы питон/source-code/en/Chapter 07/GirlNames.txt
+/материалы питон/source-code/en/Chapter 07/in_list.py
+/материалы питон/source-code/en/Chapter 07/index_list.py
+/материалы питон/source-code/en/Chapter 07/insert_list.py
+/материалы питон/source-code/en/Chapter 07/line_graph1.py
+/материалы питон/source-code/en/Chapter 07/line_graph2.py
+/материалы питон/source-code/en/Chapter 07/line_graph3.py
+/материалы питон/source-code/en/Chapter 07/line_graph4.py
+/материалы питон/source-code/en/Chapter 07/line_graph5.py
+/материалы питон/source-code/en/Chapter 07/list_append.py
+/материалы питон/source-code/en/Chapter 07/numberlist.txt
+/материалы питон/source-code/en/Chapter 07/pie_chart1.py
+/материалы питон/source-code/en/Chapter 07/pie_chart2.py
+/материалы питон/source-code/en/Chapter 07/random_numbers.py
+/материалы питон/source-code/en/Chapter 07/read_list.py
+/материалы питон/source-code/en/Chapter 07/read_number_list.py
+/материалы питон/source-code/en/Chapter 07/remove_item.py
+/материалы питон/source-code/en/Chapter 07/return_list.py
+/материалы питон/source-code/en/Chapter 07/sales_list.py
+/материалы питон/source-code/en/Chapter 07/student_solution.txt
+/материалы питон/source-code/en/Chapter 07/total_function.py
+/материалы питон/source-code/en/Chapter 07/total_list.py
+/материалы питон/source-code/en/Chapter 07/two_dimensional_list.py
+/материалы питон/source-code/en/Chapter 07/USPopulation.txt
+/материалы питон/source-code/en/Chapter 07/WorldSeriesWinners.txt
+/материалы питон/source-code/en/Chapter 07/write_list.py
+/материалы питон/source-code/en/Chapter 07/write_number_list.py
+/материалы питон/source-code/en/Chapter 07/writelines.py
+/материалы питон/source-code/en/Chapter 08/concatenate.py
+/материалы питон/source-code/en/Chapter 08/count_Ts.py
+/материалы питон/source-code/en/Chapter 08/GasPrices.txt
+/материалы питон/source-code/en/Chapter 08/generate_login.py
+/материалы питон/source-code/en/Chapter 08/login.py
+/материалы питон/source-code/en/Chapter 08/pbnumbers.txt
+/материалы питон/source-code/en/Chapter 08/repetition_operator.py
+/материалы питон/source-code/en/Chapter 08/split_date.py
+/материалы питон/source-code/en/Chapter 08/string_split.py
+/материалы питон/source-code/en/Chapter 08/string_test.py
+/материалы питон/source-code/en/Chapter 08/test_averages.py
+/материалы питон/source-code/en/Chapter 08/test_scores.csv
+/материалы питон/source-code/en/Chapter 08/text.txt
+/материалы питон/source-code/en/Chapter 08/tokens.py
+/материалы питон/source-code/en/Chapter 08/validate_password.py
+/материалы питон/source-code/en/Chapter 09/birthdays.py
+/материалы питон/source-code/en/Chapter 09/card_dealer.py
+/материалы питон/source-code/en/Chapter 09/info.dat
+/материалы питон/source-code/en/Chapter 09/Kennedy.txt
+/материалы питон/source-code/en/Chapter 09/phonebook.dat
+/материалы питон/source-code/en/Chapter 09/pickle_objects.py
+/материалы питон/source-code/en/Chapter 09/sets.py
+/материалы питон/source-code/en/Chapter 09/unpickle_objects.py
+/материалы питон/source-code/en/Chapter 09/WorldSeriesWinners.txt
+/материалы питон/source-code/en/Chapter 10/account_test.py
+/материалы питон/source-code/en/Chapter 10/account_test2.py
+/материалы питон/source-code/en/Chapter 10/bankaccount.py
+/материалы питон/source-code/en/Chapter 10/bankaccount2.py
+/материалы питон/source-code/en/Chapter 10/car.py
+/материалы питон/source-code/en/Chapter 10/cell_phone_list.py
+/материалы питон/source-code/en/Chapter 10/cell_phone_test.py
+/материалы питон/source-code/en/Chapter 10/cellphone.py
+/материалы питон/source-code/en/Chapter 10/cellphones.dat
+/материалы питон/source-code/en/Chapter 10/coin.py
+/материалы питон/source-code/en/Chapter 10/coin_argument.py
+/материалы питон/source-code/en/Chapter 10/coin_demo1.py
+/материалы питон/source-code/en/Chapter 10/coin_demo2.py
+/материалы питон/source-code/en/Chapter 10/coin_demo3.py
+/материалы питон/source-code/en/Chapter 10/coin_demo4.py
+/материалы питон/source-code/en/Chapter 10/coin_demo5.py
+/материалы питон/source-code/en/Chapter 10/contact.py
+/материалы питон/source-code/en/Chapter 10/contact_manager.py
+/материалы питон/source-code/en/Chapter 10/contacts.dat
+/материалы питон/source-code/en/Chapter 10/customer.py
+/материалы питон/source-code/en/Chapter 10/pickle_cellphone.py
+/материалы питон/source-code/en/Chapter 10/servicequote.py
+/материалы питон/source-code/en/Chapter 10/unpickle_cellphone.py
+/материалы питон/source-code/en/Chapter 11/account demo.py
+/материалы питон/source-code/en/Chapter 11/accounts.py
+/материалы питон/source-code/en/Chapter 11/animals.py
+/материалы питон/source-code/en/Chapter 11/car_demo.py
+/материалы питон/source-code/en/Chapter 11/car_truck_suv_demo.py
+/материалы питон/source-code/en/Chapter 11/polymorphism_demo.py
+/материалы питон/source-code/en/Chapter 11/polymorphism_demo2.py
+/материалы питон/source-code/en/Chapter 11/vehicles.py
+/материалы питон/source-code/en/Chapter 11/wrong_type.py
+/материалы питон/source-code/en/Chapter 12/endless_recursion.py
+/материалы питон/source-code/en/Chapter 12/factorial.py
+/материалы питон/source-code/en/Chapter 12/fibonacci.py
+/материалы питон/source-code/en/Chapter 12/gcd.py
+/материалы питон/source-code/en/Chapter 12/range_sum.py
+/материалы питон/source-code/en/Chapter 12/recursive.py
+/материалы питон/source-code/en/Chapter 12/towers_of_hanoi.py
+/материалы питон/source-code/en/Chapter 13/both_internal_and_external_padding.py
+/материалы питон/source-code/en/Chapter 13/button_demo.py
+/материалы питон/source-code/en/Chapter 13/checkbutton_demo.py
+/материалы питон/source-code/en/Chapter 13/dog_listbox.py
+/материалы питон/source-code/en/Chapter 13/draw_arc.py
+/материалы питон/source-code/en/Chapter 13/draw_dashed_square.py
+/материалы питон/source-code/en/Chapter 13/draw_line.py
+/материалы питон/source-code/en/Chapter 13/draw_multi_lines.py
+/материалы питон/source-code/en/Chapter 13/draw_ovals.py
+/материалы питон/source-code/en/Chapter 13/draw_piechart.py
+/материалы питон/source-code/en/Chapter 13/draw_polygon.py
+/материалы питон/source-code/en/Chapter 13/draw_squares.py
+/материалы питон/source-code/en/Chapter 13/draw_text.py
+/материалы питон/source-code/en/Chapter 13/empty_window1.py
+/материалы питон/source-code/en/Chapter 13/empty_window2.py
+/материалы питон/source-code/en/Chapter 13/external_padding.py
+/материалы питон/source-code/en/Chapter 13/font_demo.py
+/материалы питон/source-code/en/Chapter 13/frame_demo.py
+/материалы питон/source-code/en/Chapter 13/hello_world.py
+/материалы питон/source-code/en/Chapter 13/hello_world2.py
+/материалы питон/source-code/en/Chapter 13/hello_world3.py
+/материалы питон/source-code/en/Chapter 13/horizontal_scrollbar.py
+/материалы питон/source-code/en/Chapter 13/internal_padding.py
+/материалы питон/source-code/en/Chapter 13/kilo_converter.py
+/материалы питон/source-code/en/Chapter 13/kilo_converter2.py
+/материалы питон/source-code/en/Chapter 13/label_border.py
+/материалы питон/source-code/en/Chapter 13/listbox_example1.py
+/материалы питон/source-code/en/Chapter 13/listbox_example2.py
+/материалы питон/source-code/en/Chapter 13/quit_button.py
+/материалы питон/source-code/en/Chapter 13/radiobutton_demo.py
+/материалы питон/source-code/en/Chapter 13/scrollbar_frames.py
+/материалы питон/source-code/en/Chapter 13/scrollbars.py
+/материалы питон/source-code/en/Chapter 13/test_averages.py
+/материалы питон/source-code/en/Chapter 13/text_anchors.py
+/материалы питон/source-code/en/Chapter 13/time_zone.py
+/материалы питон/source-code/en/Chapter 13/vertical_scrollbar.py
+/материалы питон/source-code/en/Chapter 13/window_with_title.py
+/материалы питон/source-code/en/Chapter 14/database backups/chocolate.db
+/материалы питон/source-code/en/Chapter 14/database backups/company.db
+/материалы питон/source-code/en/Chapter 14/database backups/contacts.db
+/материалы питон/source-code/en/Chapter 14/database backups/employees.db
+/материалы питон/source-code/en/Chapter 14/database backups/inventory.db
+/материалы питон/source-code/en/Chapter 14/add_bad_employee_data.py
+/материалы питон/source-code/en/Chapter 14/add_employee.py
+/материалы питон/source-code/en/Chapter 14/add_table.py
+/материалы питон/source-code/en/Chapter 14/chocolate.db
+/материалы питон/source-code/en/Chapter 14/company.db
+/материалы питон/source-code/en/Chapter 14/contacts.db
+/материалы питон/source-code/en/Chapter 14/create_cities_db.py
+/материалы питон/source-code/en/Chapter 14/create_employees_db.py
+/материалы питон/source-code/en/Chapter 14/employee_details.py
+/материалы питон/source-code/en/Chapter 14/employees.db
+/материалы питон/source-code/en/Chapter 14/exception_handling.py
+/материалы питон/source-code/en/Chapter 14/fetchone_demo.py
+/материалы питон/source-code/en/Chapter 14/get_all_columns.py
+/материалы питон/source-code/en/Chapter 14/get_descriptions_prices.py
+/материалы питон/source-code/en/Chapter 14/insert_rows.py
+/материалы питон/source-code/en/Chapter 14/insert_variables.py
+/материалы питон/source-code/en/Chapter 14/inventory.db
+/материалы питон/source-code/en/Chapter 14/inventory_crud.py
+/материалы питон/source-code/en/Chapter 14/multiple_tables.py
+/материалы питон/source-code/en/Chapter 14/print_employee_dept_city.py
+/материалы питон/source-code/en/Chapter 14/product_deleter.py
+/материалы питон/source-code/en/Chapter 14/product_min_price.py
+/материалы питон/source-code/en/Chapter 14/product_price_updater.py
+/материалы питон/source-code/en/Chapter 14/products_math.py
+/материалы питон/source-code/en/Chapter 14/sorted_by_retailprice.py
+/материалы питон/source-code/en/Chapter 14/sqlite_skeleton.py
+/материалы питон/source-code/ru/data/8_ball_responses.txt
+/материалы питон/source-code/ru/data/8_ball_responses_en.txt
+/материалы питон/source-code/ru/data/1994_Weekly_Gas_Averages.txt
+/материалы питон/source-code/ru/data/BoyNames.txt
+/материалы питон/source-code/ru/data/charge_accounts.txt
+/материалы питон/source-code/ru/data/emails.dat
+/материалы питон/source-code/ru/data/employees.dat
+/материалы питон/source-code/ru/data/encrypted.txt
+/материалы питон/source-code/ru/data/expenses.txt
+/материалы питон/source-code/ru/data/GasPrices.txt
+/материалы питон/source-code/ru/data/GirlNames.txt
+/материалы питон/source-code/ru/data/golf.txt
+/материалы питон/source-code/ru/data/high_to_low.txt
+/материалы питон/source-code/ru/data/index.txt
+/материалы питон/source-code/ru/data/Kennedy.txt
+/материалы питон/source-code/ru/data/low_to_high.txt
+/материалы питон/source-code/ru/data/my_page.html
+/материалы питон/source-code/ru/data/names.txt
+/материалы питон/source-code/ru/data/numbers.txt
+/материалы питон/source-code/ru/data/pbnumbers.txt
+/материалы питон/source-code/ru/data/random_numbers.txt
+/материалы питон/source-code/ru/data/read_me.txt
+/материалы питон/source-code/ru/data/steps.txt
+/материалы питон/source-code/ru/data/student_solution.txt
+/материалы питон/source-code/ru/data/test.txt
+/материалы питон/source-code/ru/data/text.txt
+/материалы питон/source-code/ru/data/USPopulation.txt
+/материалы питон/source-code/ru/data/WorldSeriesWinners.txt
+/материалы питон/source-code/ru/objects/__init__.py
+/материалы питон/source-code/ru/objects/car.py
+/материалы питон/source-code/ru/objects/cashRegister.py
+/материалы питон/source-code/ru/objects/emp.py
+/материалы питон/source-code/ru/objects/emp_full.py
+/материалы питон/source-code/ru/objects/emp_prod.py
+/материалы питон/source-code/ru/objects/info.py
+/материалы питон/source-code/ru/objects/patient.py
+/материалы питон/source-code/ru/objects/person.py
+/материалы питон/source-code/ru/objects/pet.py
+/материалы питон/source-code/ru/objects/procedure.py
+/материалы питон/source-code/ru/objects/question.py
+/материалы питон/source-code/ru/objects/retail.py
+/материалы питон/source-code/ru/�ਫ������ 6/columns.py
+/материалы питон/source-code/ru/�ਫ������ 6/dollar_display.py
+/материалы питон/source-code/ru/�ਫ������ 6/formatting.py
+/материалы питон/source-code/ru/�ਫ������ 6/no_formatting.py
+/материалы питон/source-code/ru/����� 02/apostrophe.py
+/материалы питон/source-code/ru/����� 02/center_align.py
+/материалы питон/source-code/ru/����� 02/columns.py
+/материалы питон/source-code/ru/����� 02/comment1.py
+/материалы питон/source-code/ru/����� 02/comment2.py
+/материалы питон/source-code/ru/����� 02/concatenation.py
+/материалы питон/source-code/ru/����� 02/display_quote.py
+/материалы питон/source-code/ru/����� 02/dollar_display.py
+/материалы питон/source-code/ru/����� 02/double_quotes.py
+/материалы питон/source-code/ru/����� 02/f_string_no_formatting.py
+/материалы питон/source-code/ru/����� 02/f_string_rounding.py
+/материалы питон/source-code/ru/����� 02/formatting.py
+/материалы питон/source-code/ru/����� 02/future_value.py
+/материалы питон/source-code/ru/����� 02/input.py
+/материалы питон/source-code/ru/����� 02/no_formatting.py
+/материалы питон/source-code/ru/����� 02/orion.py
+/материалы питон/source-code/ru/����� 02/output.py
+/материалы питон/source-code/ru/����� 02/sale_price.py
+/материалы питон/source-code/ru/����� 02/simple_math.py
+/материалы питон/source-code/ru/����� 02/string_input.py
+/материалы питон/source-code/ru/����� 02/string_variable.py
+/материалы питон/source-code/ru/����� 02/test_score_average.py
+/материалы питон/source-code/ru/����� 02/time_converter.py
+/материалы питон/source-code/ru/����� 02/variable_demo.py
+/материалы питон/source-code/ru/����� 02/variable_demo2.py
+/материалы питон/source-code/ru/����� 02/variable_demo3.py
+/материалы питон/source-code/ru/����� 02/variable_demo4.py
+/материалы питон/source-code/ru/����� 03/auto_repair_payroll.py
+/материалы питон/source-code/ru/����� 03/grader.py
+/материалы питон/source-code/ru/����� 03/hit_the_target.py
+/материалы питон/source-code/ru/����� 03/loan_qualifier.py
+/материалы питон/source-code/ru/����� 03/loan_qualifier2.py
+/материалы питон/source-code/ru/����� 03/loan_qualifier3.py
+/материалы питон/source-code/ru/����� 03/password.py
+/материалы питон/source-code/ru/����� 03/sort_names.py
+/материалы питон/source-code/ru/����� 03/test_average.py
+/материалы питон/source-code/ru/����� 04/commission.py
+/материалы питон/source-code/ru/����� 04/concentric_circles.py
+/материалы питон/source-code/ru/����� 04/gross_pay.py
+/материалы питон/source-code/ru/����� 04/infinite.py
+/материалы питон/source-code/ru/����� 04/property_tax.py
+/материалы питон/source-code/ru/����� 04/rectangular_pattern.py
+/материалы питон/source-code/ru/����� 04/retail_no_validation.py
+/материалы питон/source-code/ru/����� 04/retail_with_validation.py
+/материалы питон/source-code/ru/����� 04/simple_loop1.py
+/материалы питон/source-code/ru/����� 04/simple_loop2.py
+/материалы питон/source-code/ru/����� 04/simple_loop3.py
+/материалы питон/source-code/ru/����� 04/simple_loop4.py
+/материалы питон/source-code/ru/����� 04/speed_converter.py
+/материалы питон/source-code/ru/����� 04/spiral_circles.py
+/материалы питон/source-code/ru/����� 04/spiral_lines.py
+/материалы питон/source-code/ru/����� 04/squares.py
+/материалы питон/source-code/ru/����� 04/stair_step_pattern.py
+/материалы питон/source-code/ru/����� 04/sum_numbers.py
+/материалы питон/source-code/ru/����� 04/temperature.py
+/материалы питон/source-code/ru/����� 04/test_score_averages.py
+/материалы питон/source-code/ru/����� 04/triangle_pattern.py
+/материалы питон/source-code/ru/����� 04/user_squares1.py
+/материалы питон/source-code/ru/����� 04/user_squares2.py
+/материалы питон/source-code/ru/����� 05/acme_dryer.py
+/материалы питон/source-code/ru/����� 05/bad_local.py
+/материалы питон/source-code/ru/����� 05/birds.py
+/материалы питон/source-code/ru/����� 05/change_me.py
+/материалы питон/source-code/ru/����� 05/circle.py
+/материалы питон/source-code/ru/����� 05/coin_toss.py
+/материалы питон/source-code/ru/����� 05/commission_rate.py
+/материалы питон/source-code/ru/����� 05/cups_to_ounces.py
+/материалы питон/source-code/ru/����� 05/dice.py
+/материалы питон/source-code/ru/����� 05/draw_circles.py
+/материалы питон/source-code/ru/����� 05/draw_lines.py
+/материалы питон/source-code/ru/����� 05/draw_squares.py
+/материалы питон/source-code/ru/����� 05/function_demo.py
+/материалы питон/source-code/ru/����� 05/geometry.py
+/материалы питон/source-code/ru/����� 05/global1.py
+/материалы питон/source-code/ru/����� 05/global2.py
+/материалы питон/source-code/ru/����� 05/graphics_mod_demo.py
+/материалы питон/source-code/ru/����� 05/hypotenuse.py
+/материалы питон/source-code/ru/����� 05/keyword_args.py
+/материалы питон/source-code/ru/����� 05/keyword_string_args.py
+/материалы питон/source-code/ru/����� 05/multiple_args.py
+/материалы питон/source-code/ru/����� 05/my_graphics.py
+/материалы питон/source-code/ru/����� 05/none_demo.py
+/материалы питон/source-code/ru/����� 05/pass_arg.py
+/материалы питон/source-code/ru/����� 05/random_numbers.py
+/материалы питон/source-code/ru/����� 05/random_numbers2.py
+/материалы питон/source-code/ru/����� 05/random_numbers3.py
+/материалы питон/source-code/ru/����� 05/rectangle.py
+/материалы питон/source-code/ru/����� 05/rectangle2.py
+/материалы питон/source-code/ru/����� 05/retirement.py
+/материалы питон/source-code/ru/����� 05/sale_price.py
+/материалы питон/source-code/ru/����� 05/square_root.py
+/материалы питон/source-code/ru/����� 05/string_args.py
+/материалы питон/source-code/ru/����� 05/total_ages.py
+/материалы питон/source-code/ru/����� 05/two_functions.py
+/материалы питон/source-code/ru/����� 06/add_coffee_record.py
+/материалы питон/source-code/ru/����� 06/circle.py
+/материалы питон/source-code/ru/����� 06/coffee.txt
+/материалы питон/source-code/ru/����� 06/delete_coffee_record.py
+/материалы питон/source-code/ru/����� 06/display_file.py
+/материалы питон/source-code/ru/����� 06/display_file2.py
+/материалы питон/source-code/ru/����� 06/division.py
+/материалы питон/source-code/ru/����� 06/division2.py
+/материалы питон/source-code/ru/����� 06/employees.txt
+/материалы питон/source-code/ru/����� 06/file_read.py
+/материалы питон/source-code/ru/����� 06/file_write.py
+/материалы питон/source-code/ru/����� 06/friends.txt
+/материалы питон/source-code/ru/����� 06/gross_pay1.py
+/материалы питон/source-code/ru/����� 06/gross_pay2.py
+/материалы питон/source-code/ru/����� 06/gross_pay3.py
+/материалы питон/source-code/ru/����� 06/line_read.py
+/материалы питон/source-code/ru/����� 06/modify_coffee_records.py
+/материалы питон/source-code/ru/����� 06/my_graphics.py
+/материалы питон/source-code/ru/����� 06/numbers.txt
+/материалы питон/source-code/ru/����� 06/philosophers.txt
+/материалы питон/source-code/ru/����� 06/read_emp_records.py
+/материалы питон/source-code/ru/����� 06/read_numbers.py
+/материалы питон/source-code/ru/����� 06/read_running_times.py
+/материалы питон/source-code/ru/����� 06/read_sales.py
+/материалы питон/source-code/ru/����� 06/read_sales2.py
+/материалы питон/source-code/ru/����� 06/rectangle.py
+/материалы питон/source-code/ru/����� 06/sales.txt
+/материалы питон/source-code/ru/����� 06/sales_report1.py
+/материалы питон/source-code/ru/����� 06/sales_report2.py
+/материалы питон/source-code/ru/����� 06/sales_report3.py
+/материалы питон/source-code/ru/����� 06/sales_report4.py
+/материалы питон/source-code/ru/����� 06/save_emp_records.py
+/материалы питон/source-code/ru/����� 06/save_running_times.py
+/материалы питон/source-code/ru/����� 06/search_coffee_records.py
+/материалы питон/source-code/ru/����� 06/show_coffee_records.py
+/материалы питон/source-code/ru/����� 06/strip_newline.py
+/материалы питон/source-code/ru/����� 06/video_times.txt
+/материалы питон/source-code/ru/����� 06/write_names.py
+/материалы питон/source-code/ru/����� 06/write_numbers.py
+/материалы питон/source-code/ru/����� 06/write_sales.py
+/материалы питон/source-code/ru/����� 07/07_01.png
+/материалы питон/source-code/ru/����� 07/07_02.png
+/материалы питон/source-code/ru/����� 07/07_03.png
+/материалы питон/source-code/ru/����� 07/07_04.png
+/материалы питон/source-code/ru/����� 07/07_05.png
+/материалы питон/source-code/ru/����� 07/07_06.png
+/материалы питон/source-code/ru/����� 07/07_07.png
+/материалы питон/source-code/ru/����� 07/07_08.png
+/материалы питон/source-code/ru/����� 07/07_09.png
+/материалы питон/source-code/ru/����� 07/07_10.png
+/материалы питон/source-code/ru/����� 07/8_ball_responses.txt
+/материалы питон/source-code/ru/����� 07/8_ball_responses_ru.txt
+/материалы питон/source-code/ru/����� 07/1994_Weekly_Gas_Averages.txt
+/материалы питон/source-code/ru/����� 07/average_list.py
+/материалы питон/source-code/ru/����� 07/bar_chart1.py
+/материалы питон/source-code/ru/����� 07/bar_chart2.py
+/материалы питон/source-code/ru/����� 07/bar_chart3.py
+/материалы питон/source-code/ru/����� 07/barista_pay.py
+/материалы питон/source-code/ru/����� 07/BoyNames.txt
+/материалы питон/source-code/ru/����� 07/charge_accounts.txt
+/материалы питон/source-code/ru/����� 07/cities.txt
+/материалы питон/source-code/ru/����� 07/drop_lowest_score.py
+/материалы питон/source-code/ru/����� 07/GirlNames.txt
+/материалы питон/source-code/ru/����� 07/in_list.py
+/материалы питон/source-code/ru/����� 07/index_list.py
+/материалы питон/source-code/ru/����� 07/insert_list.py
+/материалы питон/source-code/ru/����� 07/line_graph1.py
+/материалы питон/source-code/ru/����� 07/line_graph2.py
+/материалы питон/source-code/ru/����� 07/line_graph3.py
+/материалы питон/source-code/ru/����� 07/line_graph4.py
+/материалы питон/source-code/ru/����� 07/line_graph5.py
+/материалы питон/source-code/ru/����� 07/list_append.py
+/материалы питон/source-code/ru/����� 07/numberlist.txt
+/материалы питон/source-code/ru/����� 07/pie_chart1.py
+/материалы питон/source-code/ru/����� 07/pie_chart2.py
+/материалы питон/source-code/ru/����� 07/random_numbers.py
+/материалы питон/source-code/ru/����� 07/read_list.py
+/материалы питон/source-code/ru/����� 07/read_number_list.py
+/материалы питон/source-code/ru/����� 07/remove_item.py
+/материалы питон/source-code/ru/����� 07/return_list.py
+/материалы питон/source-code/ru/����� 07/sales_list.py
+/материалы питон/source-code/ru/����� 07/student_solution.txt
+/материалы питон/source-code/ru/����� 07/total_function.py
+/материалы питон/source-code/ru/����� 07/total_list.py
+/материалы питон/source-code/ru/����� 07/two_dimensional_list.py
+/материалы питон/source-code/ru/����� 07/USPopulation.txt
+/материалы питон/source-code/ru/����� 07/WorldSeriesWinners.txt
+/материалы питон/source-code/ru/����� 07/write_list.py
+/материалы питон/source-code/ru/����� 07/write_number_list.py
+/материалы питон/source-code/ru/����� 07/writelines.py
+/материалы питон/source-code/ru/����� 08/concatenate.py
+/материалы питон/source-code/ru/����� 08/count_letters_T.py
+/материалы питон/source-code/ru/����� 08/GasPrices.txt
+/материалы питон/source-code/ru/����� 08/generate_login.py
+/материалы питон/source-code/ru/����� 08/login.py
+/материалы питон/source-code/ru/����� 08/login2.py
+/материалы питон/source-code/ru/����� 08/pbnumbers.txt
+/материалы питон/source-code/ru/����� 08/repetition_operator.py
+/материалы питон/source-code/ru/����� 08/split_date.py
+/материалы питон/source-code/ru/����� 08/string_split.py
+/материалы питон/source-code/ru/����� 08/string_test.py
+/материалы питон/source-code/ru/����� 08/test_averages.py
+/материалы питон/source-code/ru/����� 08/test_scores.csv
+/материалы питон/source-code/ru/����� 08/text.txt
+/материалы питон/source-code/ru/����� 08/tokens.py
+/материалы питон/source-code/ru/����� 08/validate_password.py
+/материалы питон/source-code/ru/����� 09/birthdays.py
+/материалы питон/source-code/ru/����� 09/card_dealer.py
+/материалы питон/source-code/ru/����� 09/Index.txt
+/материалы питон/source-code/ru/����� 09/info.dat
+/материалы питон/source-code/ru/����� 09/Kennedy.txt
+/материалы питон/source-code/ru/����� 09/pickle_objects.py
+/материалы питон/source-code/ru/����� 09/sets.py
+/материалы питон/source-code/ru/����� 09/unpickle_objects.py
+/материалы питон/source-code/ru/����� 09/WorldSeriesWinners.txt
+/материалы питон/source-code/ru/����� 10/account_test.py
+/материалы питон/source-code/ru/����� 10/account_test2.py
+/материалы питон/source-code/ru/����� 10/bankaccount.py
+/материалы питон/source-code/ru/����� 10/bankaccount2.py
+/материалы питон/source-code/ru/����� 10/car.py
+/материалы питон/source-code/ru/����� 10/cell_phone_list.py
+/материалы питон/source-code/ru/����� 10/cell_phone_test.py
+/материалы питон/source-code/ru/����� 10/cellphone.py
+/материалы питон/source-code/ru/����� 10/cellphones.dat
+/материалы питон/source-code/ru/����� 10/coin.py
+/материалы питон/source-code/ru/����� 10/coin_argument.py
+/материалы питон/source-code/ru/����� 10/coin_demo1.py
+/материалы питон/source-code/ru/����� 10/coin_demo2.py
+/материалы питон/source-code/ru/����� 10/coin_demo3.py
+/материалы питон/source-code/ru/����� 10/coin_demo4.py
+/материалы питон/source-code/ru/����� 10/coin_demo5.py
+/материалы питон/source-code/ru/����� 10/contact.py
+/материалы питон/source-code/ru/����� 10/contact_manager.py
+/материалы питон/source-code/ru/����� 10/contacts.dat
+/материалы питон/source-code/ru/����� 10/customer.py
+/материалы питон/source-code/ru/����� 10/pickle_cellphone.py
+/материалы питон/source-code/ru/����� 10/servicequote.py
+/материалы питон/source-code/ru/����� 10/unpickle_cellphone.py
+/материалы питон/source-code/ru/����� 11/account_demo.py
+/материалы питон/source-code/ru/����� 11/accounts.py
+/материалы питон/source-code/ru/����� 11/animals.py
+/материалы питон/source-code/ru/����� 11/car_demo.py
+/материалы питон/source-code/ru/����� 11/car_truck_suv_demo.py
+/материалы питон/source-code/ru/����� 11/polymorphism_demo.py
+/материалы питон/source-code/ru/����� 11/polymorphism_demo2.py
+/материалы питон/source-code/ru/����� 11/vehicles.py
+/материалы питон/source-code/ru/����� 11/wrong_type.py
+/материалы питон/source-code/ru/����� 12/endless_recursion.py
+/материалы питон/source-code/ru/����� 12/factorial.py
+/материалы питон/source-code/ru/����� 12/fibonacci.py
+/материалы питон/source-code/ru/����� 12/gcd.py
+/материалы питон/source-code/ru/����� 12/range_sum.py
+/материалы питон/source-code/ru/����� 12/recursive.py
+/материалы питон/source-code/ru/����� 12/Recursive Multiplication (opens new window).url
+/материалы питон/source-code/ru/����� 12/towers_of_hanoi.py
+/материалы питон/source-code/ru/����� 13/button_demo.py
+/материалы питон/source-code/ru/����� 13/checkbutton_demo.py
+/материалы питон/source-code/ru/����� 13/dog_listbox.py
+/материалы питон/source-code/ru/����� 13/draw_arc.py
+/материалы питон/source-code/ru/����� 13/draw_line.py
+/материалы питон/source-code/ru/����� 13/draw_multi_lines.py
+/материалы питон/source-code/ru/����� 13/draw_ovals.py
+/материалы питон/source-code/ru/����� 13/draw_piechart.py
+/материалы питон/source-code/ru/����� 13/draw_polygon.py
+/материалы питон/source-code/ru/����� 13/draw_square.py
+/материалы питон/source-code/ru/����� 13/draw_text.py
+/материалы питон/source-code/ru/����� 13/empty_window1.py
+/материалы питон/source-code/ru/����� 13/empty_window2.py
+/материалы питон/source-code/ru/����� 13/external_padding.py
+/материалы питон/source-code/ru/����� 13/font_demo.py
+/материалы питон/source-code/ru/����� 13/frame_demo.py
+/материалы питон/source-code/ru/����� 13/hello_world.py
+/материалы питон/source-code/ru/����� 13/hello_world2.py
+/материалы питон/source-code/ru/����� 13/hello_world3.py
+/материалы питон/source-code/ru/����� 13/horizontal_scrollbar.py
+/материалы питон/source-code/ru/����� 13/internal_padding.py
+/материалы питон/source-code/ru/����� 13/kilo_converter.py
+/материалы питон/source-code/ru/����� 13/kilo_converter2.py
+/материалы питон/source-code/ru/����� 13/listbox_example1.py
+/материалы питон/source-code/ru/����� 13/listbox_example2.py
+/материалы питон/source-code/ru/����� 13/quit_button.py
+/материалы питон/source-code/ru/����� 13/radiobutton_demo.py
+/материалы питон/source-code/ru/����� 13/test_averages.py
+/материалы питон/source-code/ru/����� 13/time_zone.py
+/материалы питон/source-code/ru/����� 13/vertical_horizontal_scrollbar.py
+/материалы питон/source-code/ru/����� 13/vertical_scrollbar.py
+/материалы питон/source-code/ru/����� 13/window_with_title.py
+/материалы питон/source-code/ru/����� 14/add_bad_employee_data.py
+/материалы питон/source-code/ru/����� 14/add_employee.py
+/материалы питон/source-code/ru/����� 14/add_table.py
+/материалы питон/source-code/ru/����� 14/chocolate.db
+/материалы питон/source-code/ru/����� 14/company.db
+/материалы питон/source-code/ru/����� 14/contacts.db
+/материалы питон/source-code/ru/����� 14/create_cities_db.py
+/материалы питон/source-code/ru/����� 14/create_employees_db.py
+/материалы питон/source-code/ru/����� 14/employee_details.py
+/материалы питон/source-code/ru/����� 14/employees.db
+/материалы питон/source-code/ru/����� 14/exception_handling.py
+/материалы питон/source-code/ru/����� 14/fetchone_demo.py
+/материалы питон/source-code/ru/����� 14/get_all_columns.py
+/материалы питон/source-code/ru/����� 14/get_descriptions_prices.py
+/материалы питон/source-code/ru/����� 14/insert_rows.py
+/материалы питон/source-code/ru/����� 14/insert_variables.py
+/материалы питон/source-code/ru/����� 14/inventory.db
+/материалы питон/source-code/ru/����� 14/inventory_crud.py
+/материалы питон/source-code/ru/����� 14/multiple_tables.py
+/материалы питон/source-code/ru/����� 14/print_employee_dept_city.py
+/материалы питон/source-code/ru/����� 14/product_deleter.py
+/материалы питон/source-code/ru/����� 14/product_min_price.py
+/материалы питон/source-code/ru/����� 14/product_price_updater.py
+/материалы питон/source-code/ru/����� 14/products_math.py
+/материалы питон/source-code/ru/����� 14/sorted_by_retailprice.py
+/материалы питон/source-code/ru/����� 14/sqlite_skeleton.py
+/материалы питон/source-code/ru/����� 15/data_pipeline.py
+/материалы питон/source-code/ru/����� 15/factorial_functional.py
+/материалы питон/source-code/ru/����� 15/factorial_functional2.py
+/материалы питон/source-code/ru/����� 15/fibonacci_functional.py
+/материалы питон/source-code/ru/����� 15/range_sum_functional.py
+/материалы питон/source-code/ответы на вопросы/ответы на вопросы.doc
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� ����� 2 � ����-�奬���.doc
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� ����� 2 � ����-�奬���.pdf
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.1.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.2.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.3.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.4.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.5.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.6.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.7.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.8.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.9.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.10.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.11.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.12.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.13.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.14.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_01.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_02.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_03.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_04.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_05.py
+/материалы питон/source-code/упражнения по программированию/����� 02/��ࠦ����� 2.15_�᪨�_06.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� ����� 3.doc
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� ����� 3.pdf
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.1.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.2.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.3.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.4.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.5.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.6.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.7.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.8.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.9.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.10.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.11.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.12.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.13.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.14.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.15.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.16.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.17.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.18.py
+/материалы питон/source-code/упражнения по программированию/����� 03/��ࠦ����� 3.19.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� ����� 4.doc
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� ����� 4.pdf
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.1.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.2.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.3.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.4.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.5.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.6.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.7.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.8.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.9.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.10.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.11.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.12.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.13.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.14.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.15.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.16.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.17.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.18.py
+/материалы питон/source-code/упражнения по программированию/����� 04/��ࠦ����� 4.19.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� ����� 5.doc
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� ����� 5.pdf
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.1.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.2.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.3.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.4.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.5.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.6.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.7.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.8.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.9.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.10.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.11.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.12.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.13.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.14.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.15.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.16.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.17.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.18.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.19.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.20.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.21.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.22.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.23.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.24.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.25.py
+/материалы питон/source-code/упражнения по программированию/����� 05/��ࠦ����� 5.26.py
+/материалы питон/source-code/упражнения по программированию/����� 06/data/golf.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/data/my_page.html
+/материалы питон/source-code/упражнения по программированию/����� 06/data/names.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/data/numbers.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/data/random_numbers.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/data/steps.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/data/test.txt
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� ����� 6.doc
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� ����� 6.pdf
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.1.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.2.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.3.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.4.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.5.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.6.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.7.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.8.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.9.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.10a.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.10b.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.11.py
+/материалы питон/source-code/упражнения по программированию/����� 06/��ࠦ����� 6.12.py
+/материалы питон/source-code/упражнения по программированию/����� 07/data/8_ball_responses.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/8_ball_responses_ru.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/1994_Weekly_Gas_Averages.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/BoyNames.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/charge_accounts.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/expenses.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/GirlNames.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/student_solution.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/USPopulation.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/data/WorldSeriesWinners.txt
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� ����� 7.doc
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� ����� 7.pdf
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.1.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.2.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.3.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.4.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.5.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.6.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.7.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.8.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.9.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.10.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.11.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.12.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.13.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.14.py
+/материалы питон/source-code/упражнения по программированию/����� 07/��ࠦ����� 7.15.py
+/материалы питон/source-code/упражнения по программированию/����� 08/data/GasPrices.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/data/high_to_low.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/data/low_to_high.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/data/pbnumbers.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/data/read_me.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/data/text.txt
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� ����� 8.doc
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� ����� 8.pdf
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.1.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.2.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.3.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.4.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.5.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.6.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.7.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.8.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.9.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.10.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.11.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.12.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.13_1_2.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.13_3.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.13_4.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.14_1.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.14_2.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.14_3.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.14_4.py
+/материалы питон/source-code/упражнения по программированию/����� 08/��ࠦ����� 8.14_5.py
+/материалы питон/source-code/упражнения по программированию/����� 09/data/emails.dat
+/материалы питон/source-code/упражнения по программированию/����� 09/data/encrypted.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/first_file.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/index.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/Kennedy.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/second_file.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/text.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/data/WorldSeriesWinners.txt
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� ����� 9.doc
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� ����� 9.pdf
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.1.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.2.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.3-1.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.3-2.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.4.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.5.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.6.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.7.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.8.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.9.py
+/материалы питон/source-code/упражнения по программированию/����� 09/��ࠦ����� 9.10.py
+/материалы питон/source-code/упражнения по программированию/����� 10/data/employees.dat
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/__init__.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/car.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/cashRegister.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/emp.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/info.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/patient.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/pet.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/procedure.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/question.py
+/материалы питон/source-code/упражнения по программированию/����� 10/objects/retail.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� ����� 10.doc
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� ����� 10.pdf
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.1.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.2.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.3.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.4.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.5.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.6.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.7.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.8.py
+/материалы питон/source-code/упражнения по программированию/����� 10/��ࠦ����� 10.9.py
+/материалы питон/source-code/упражнения по программированию/����� 11/objects/emp_full.py
+/материалы питон/source-code/упражнения по программированию/����� 11/objects/emp_prod.py
+/материалы питон/source-code/упражнения по программированию/����� 11/objects/person.py
+/материалы питон/source-code/упражнения по программированию/����� 11/��ࠦ����� ����� 11.doc
+/материалы питон/source-code/упражнения по программированию/����� 11/��ࠦ����� ����� 11.pdf
+/материалы питон/source-code/упражнения по программированию/����� 11/��ࠦ����� 11.1.py
+/материалы питон/source-code/упражнения по программированию/����� 11/��ࠦ����� 11.2.py
+/материалы питон/source-code/упражнения по программированию/����� 11/��ࠦ����� 11.3.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� ����� 12.doc
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� ����� 12.pdf
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.1.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.2.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.3.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.4.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.5.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.6.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.7.py
+/материалы питон/source-code/упражнения по программированию/����� 12/��ࠦ����� 12.8.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� ����� 13.doc
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� ����� 13.pdf
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.1.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.2.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.3.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.4.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.5.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.6.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.7.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.8.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.9.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.10.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.11.py
+/материалы питон/source-code/упражнения по программированию/����� 13/��ࠦ����� 13.12.py
+/материалы питон/source-code/Thumbs.db
+/материалы питон/source-code/����� 15.doc
+/материалы питон/source-code/����� 15.pdf
+/материалы питон/source-code/�������ਨ ��ॢ��稪�.doc
+/материалы питон/source-code/�������ਨ ��ॢ��稪�.pdf
+/материалы питон/VideoNotes/Appendix/_AppendixB_Vid01_Intro_to_IDLE_1339806787754_mp4_video_640x360_162747_primary_audio_eng_2.mp4
+/материалы питон/VideoNotes/Chapter 1 Introduction to Computers and Programming/_Chap01_Vid01_Using_Interactive_Mode_in_IDLE_1339805251813_mp4_video_640x480_154061_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 1 Introduction to Computers and Programming/_Chap01_Vid02_Performing_Exercise_2_1339804739599_mp4_video_640x480_146550_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 2 Input, Processing, and Output/_Chap02_Vid01_Using_the_print_function_1339804739590_mp4_video_640x480_144498_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 2 Input, Processing, and Output/_Chap02_Vid02_Reading_input_from_the_keyboard_1339805763771_mp4_video_640x480_138388_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 2 Input, Processing, and Output/_Chap02_Vid03_The_Sales_Prediction_Problem_1339808323619_mp4_video_640x480_145091_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 2 Input, Processing, and Output/_Chapter_02_Intro_to_Turtle_Graphics_1339806275989_mp4_video_1280x720_446308_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 3 Decision Structures and Boolean Logic/_Chap03_Vid01_The_if_Statement_1339805251804_mp4_video_640x480_137456_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 3 Decision Structures and Boolean Logic/_Chap03_Vid02_The_if_else_Statement_1339804227899_mp4_video_640x480_142344_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 3 Decision Structures and Boolean Logic/_Chap03_Vid03_The_Areas_of_Rectangles_Problem_1339808323637_mp4_video_640x480_166567_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 4 Repetition Structures/_Chap04_Vid01_The_while_Loop_1339805251826_mp4_video_640x480_131951_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 4 Repetition Structures/_Chap04_Vid02_The_for_Loop_1339805763760_mp4_video_640x480_123196_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 4 Repetition Structures/_Chap04_Vid03_Bug_Collector_Problem_1339807299926_mp4_video_640x480_134979_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 5 Functions/_Chap05_Vid01_Defining_and_Calling_a_Function_1339808323618_mp4_video_640x480_136603_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 5 Functions/_Chap05_Vid02_Passing_Arguments_to_a_Function_1339806787768_mp4_video_640x480_133343_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 5 Functions/_Chap05_Vid03_Writing_a_Value_Returning_Function_1339805251835_mp4_video_640x480_119967_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 5 Functions/_Chap05_Vid04_The_Kilometer_Converter_Problem_1339807299859_mp4_video_640x480_148836_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 5 Functions/_Chap05_Vid05_The_Feet_To_Inches_Problem_1339807299847_mp4_video_640x480_137447_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 6 Files and Exceptions/_Chap06_Vid01_Using_Loops_to_Process_Files_1339806787814_mp4_video_640x480_154132_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 6 Files and Exceptions/_Chap06_Vid02_File_Display_1339808323674_mp4_video_640x480_143462_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 7 Lists and Tuples/_Chap07_Vid01_List_Slicing_1339806787830_mp4_video_640x480_129396_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 7 Lists and Tuples/_Chap07_Vid02_Lottery_Number_Generator_Problem_1339808323689_mp4_video_640x480_138546_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 8 More About Strings/_Chap08_Vid01_Vowels_and_Consonants_Problem_1339807811961_mp4_video_640x480_151373_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 9 Dictionaries and Sets/_Chap09_Vid01_Introduction_to_Dictionaries_1339808323770_mp4_video_640x480_134070_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 9 Dictionaries and Sets/_Chap09_Vid02_Introduction_to_Sets_1339806787907_mp4_video_640x480_136188_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 9 Dictionaries and Sets/_Chap09_Vid03_The_Capital_Quiz_Problem_1339808835535_mp4_video_640x480_141335_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 10 Classes and Object-Oriented Programming/_Chap10_Vid01_Classes_and_Objects_1339807811972_mp4_video_640x480_148597_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 10 Classes and Object-Oriented Programming/_Chap10_Vid02_The_Pet_Class_1339807811899_mp4_video_640x480_167381_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 11 Inheritance/_Chap11_Vid01_Person_and_Customer_Classes_1339808323752_mp4_video_640x480_143895_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 12 Recursion/_Chap12_Vid01_Recursive_Multiplication_1339807299944_mp4_video_0x360_134593_primary_audio_eng_2.mp4
+/материалы питон/VideoNotes/Chapter 13 GUI Programming/_Chap13_Vid01_Creating_a_Simple_GUI_1339808835515_mp4_video_640x480_162236_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 13 GUI Programming/_Chap13_Vid02_Responding_to_Button_Clicks_1339808323739_mp4_video_640x480_151957_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 13 GUI Programming/_Chap13_Vid03_Name_and_Address_Problem_1339807811914_mp4_video_640x480_141971_primary_audio_eng_3.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_01_1721704515896_mp4_video_1280x720_196216_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_02_1721706563609_mp4_video_1280x720_219605_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_03_1721705539984_mp4_video_1280x720_413648_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_04_1721706051806_mp4_video_1280x720_290316_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_05_1721708611602_mp4_video_1280x720_329712_primary_audio_eng_4.mp4
+/материалы питон/VideoNotes/Chapter 14 Database Programming/_Video14_06_1721706051644_mp4_video_1280x720_658186_primary_audio_eng_4.mp4
+/сиибд/Ларионов Н.В. ПВБО-01-24 РТ1.docx
+/сиибд/Ларионов Н.В. ПВБО-01-24 РТ2.docx
+/сиибд/Ларионов Н.В. ПВБО-01-24 РТ3.docx
+/сиибд/элтех_н.ipynb
+/сиибд/элтех_нын.ipynb
+/1.1.docx
+/1.2.docx
+/2.docx
+/desktop.ini
+/Essential English for IT Students. Part 1_2025.pdf
+/Megabonk.url
+/ПВБО-01-24_ЛарионовНВ_ДЗ1.1_Вариант3.pdf
+/ПВБО-01-24_ЛарионовНВ_ДЗ1.2_Вариант3.pdf
+/Первая лаба.TSC
+/Практическое задание.docx
