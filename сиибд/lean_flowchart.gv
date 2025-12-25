@@ -1,0 +1,56 @@
+digraph LeanImplementation {
+	fontsize=10 labelloc=t rankdir=TB
+	node [color="#6b6b6b" fillcolor="#f7f7f7" shape=rect style="rounded,filled"]
+	Start [label="Старт: Формирование команды проекта
+(назначение ответственных)"]
+	VSM [label="Диагностика состояния
+(Value Stream Mapping)"]
+	KPI [label="Определение приоритетов
+и KPI"]
+	Pilot [label="Быстрый выигрыш:
+5S и визуальный контроль
+(пилотная линия)"]
+	StdWork [label="Стандартизация
+рабочих операций"]
+	Kanban [label="Внедрение pull (Канбан)
+и выравнивание (Heijunka)"]
+	SMED [label="Снижение времени переналадки
+(SMED)"]
+	Poka [label="Качество у источника:
+Poka‑yoke и контроль на месте"]
+	TPM [label="TPM: ежедневное обслуживание
+и профилактика"]
+	Kaizen [label="Kaizen: непрерывные улучшения
+и обучение персонала"]
+	Rollout [label="Расширение и масштабирование
+(roll‑out)"]
+	Monitor [label="Мониторинг и аудит
+(поддержание результатов)"]
+	Digital [label="Цифровизация и оптимизация
+(по мере готовности)"]
+	End [label="Конец: устойчивая система
+бережливого производства"]
+	Start -> VSM
+	VSM -> KPI
+	KPI -> Pilot
+	Pilot -> StdWork
+	StdWork -> Kanban
+	Kanban -> SMED
+	SMED -> Poka
+	Poka -> TPM
+	TPM -> Kaizen
+	Kaizen -> Rollout
+	Rollout -> Monitor
+	Monitor -> Digital
+	Digital -> End
+	KPI -> SMED [style=dashed]
+	KPI -> Poka [style=dashed]
+	KPI -> TPM [style=dashed]
+	Pilot -> Kaizen [style=dashed]
+	node [fillcolor="#ffffff" shape=note]
+	Legend [label="Легенда:
+- Прямые стрелки: рекомендуемая последовательность
+- Пунктирные стрелки: возможное параллельное внедрение
+- Пилот: начните с одной линии/зоны для проверки подхода"]
+	Monitor -> Legend [style=invis]
+}
